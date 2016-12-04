@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1480920529 source:d:\dokumen\kuliah\semester 3\strukdat\tubes asd\list_child.cpp
+	"list_child.h"
+
+1480920835 source:d:\dokumen\kuliah\semester 3\strukdat\tubes asd\list_parent.cpp
+	"List_parent.h"
+
+1480920835 source:d:\dokumen\kuliah\semester 3\strukdat\tubes asd\main.cpp
+	<iostream>
+	"list_parent.h"
+	"list_child.h"
+
+1480920529 d:\dokumen\kuliah\semester 3\strukdat\tubes asd\list_child.h
+	<stdlib.h>
+	<iostream>
+
+1480920529 d:\dokumen\kuliah\semester 3\strukdat\tubes asd\list_parent.h
+	<stdlib.h>
+	<conio.h>
+	<iostream>
+	"list_child.h"
+
